@@ -7,19 +7,15 @@ The purpose of this audit is to determine and report the total number of votes c
 
 Summary:
     -369,711 votes cast in the election
-    
     -Candidates name:
         Diana DeGette
         Charles Casper Stockham
         Raymon Anthony Doane
-
     -Number of votes, and percentage of votes collected by each candidate:
         Charles Casper Stockham received 85,213 vote wich is equal to 23.0% of the votes
         Raymon Anthony Doane received 11,606 vote which is equal to 3.1% of the votes
         and
         Diana DeGette who received 272,892 vote which is equal to 73.8% of the total votes
-
- 
     So, the winner of the election is:
         Diana DeGette
 
