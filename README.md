@@ -21,5 +21,3 @@ Summary:
 
     So, the winner of the election is:
         Diana DeGette
-
-
